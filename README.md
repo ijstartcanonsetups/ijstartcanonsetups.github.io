@@ -1,7 +1,7 @@
 
 # IJ.Start.Canon Setup 
 
-[![canon.com/ijsetup](quick-start.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+[![canon.com/ijsetup](now-button-image.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
 
 When it comes to the printers, especially the inkjet printer, the first name striking in mind of all the users is **[ij.start.canon](https://ijstartcanonsetups.github.io/)**. Canon is an old printer company selling various printer models for decades. The canon printers also make a difference with their models. Every model of the canon printer is different. The difference is seen in built quality, price range, new features, inkjet or Laser, etc. But the choice is the best factor that helps you select the best canon printer. Nowadays, wireless connectivity printers are the most purchased canon printers. So let's see in detail about the wireless canon printers.\
